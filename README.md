@@ -4,7 +4,7 @@ A curated collection of application notes relevant to embedded systems engineers
 
 According to [Michigan State University](https://www.egr.msu.edu/classes/ece480/capstone/docs/app_note.html), an application note is a focused description of **how to** do something. It typically includes an introduction to the topic, precise implementation details, results, and recommendations.
 
-While [curated collections of software engineering papers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers) are common, resources for embedded systems engineers are scattered. This repository aims to bridge that gap by providing a structured, accessible library of application notes that are both practical and insightful.
+While [curated collections of software engineering papers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers) are common, resources for embedded systems engineers are scattered. This repository aims to bridge that gap by providing a structured, accessible library of application notes that are both practical and insightful. Application notes here should be generic enough to be useful to anyone interested in that topic and not specific to a chip. For instance the application note __AN4907 VL53L0X ranging module cover window guidelines__ would be too specific and not useful unless you are using the VLX53L0X.
 
 Contributions are welcome! If you know a useful application note, feel free to submit a pull request or open an issue with details.
 

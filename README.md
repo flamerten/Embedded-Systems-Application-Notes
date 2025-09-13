@@ -24,7 +24,7 @@ Application notes on sensor design, calibration, and integration.
 
 ### Inertial Measurement Units
 
-AN-1057 — Using an Accelerometer for Inclination Sensing by Analog Devices
+AN-1057: Using an Accelerometer for Inclination Sensing by Analog Devices
 - [Read the PDF](https://www.analog.com/media/en/technical-documentation/app-notes/an-1057.pdf)
 - Explains how to use accelerometers for tilt and inclination measurement, including signal conditioning.
 
